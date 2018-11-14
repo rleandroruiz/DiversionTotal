@@ -1,0 +1,3 @@
+C:/Users/nicor/CLionProjects/DiversionTotal/cmake-build-debug/CMakeFiles/DiversionTotal.dir
+C:/Users/nicor/CLionProjects/DiversionTotal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicor/CLionProjects/DiversionTotal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
